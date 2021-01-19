@@ -1,0 +1,21 @@
+.cartNavButton {
+
+  width: 200px;
+  height: 24px;
+  margin-top: 10px;
+  color: #ffff;
+  background-color: #209CEE;
+  border: 2px solid #209CEE;
+  border-radius: 3px;
+  transition: all .4s ease;
+  -webkit-transition: all .4s ease;
+  cursor: pointer;
+
+}
+
+.cartNavButton:hover {
+
+  background-color: #1772af;
+  border: 2px solid #1772af;
+
+}

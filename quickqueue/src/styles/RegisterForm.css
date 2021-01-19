@@ -1,0 +1,61 @@
+.registerForm {
+
+  margin: 120px auto;
+  border: 2px solid  #232b2bb4;
+  width: 300px;
+  padding: 20px;
+  position: relative;
+  border-radius: 8px;
+
+}
+
+.registerButton,
+.loginNavButton {
+
+  width: 220px;
+  height: 24px;
+  margin-top: 10px;
+  color: #ffff;
+  background-color: #209CEE;
+  border: 2px solid #209CEE;
+  border-radius: 3px;
+  transition: all .4s ease;
+  -webkit-transition: all .4s ease;
+  cursor: pointer;
+
+}
+
+.loginNavButton:hover,
+.registerButton:hover {
+
+  background-color: #1772af;
+  border: 2px solid #1772af;
+
+}
+
+.loginNavButton {
+
+  margin-bottom: 30px;
+
+}
+
+.accountTypeWrapper > label {
+
+  display: block;
+  margin: 10px 0;
+
+}
+
+#inputUsername,
+#inputPassword,
+#inputFirstName,
+#inputLastName,
+#inputEmail {
+
+  margin: 10px;
+  border: 1px solid #232b2bb4;
+  border-radius: 4px;
+  padding-left: 5px;
+  height: 20px;
+
+}

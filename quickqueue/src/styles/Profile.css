@@ -1,0 +1,40 @@
+.profileWrapper {
+
+  width: 90%;
+  margin: 0 auto;
+
+}
+
+.profileOwner {
+  
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border: 3px solid #209CEE;
+  border-radius: 8px;
+  width: 250px;
+
+}
+
+.profileOwner > h1 {
+
+  margin: 16px 0;
+  text-align-last: left;
+  padding-left: 10px;
+
+}
+
+.profileDetails > p {
+
+  margin: 10px 0;
+  text-align-last: left;
+  padding-left: 10px;
+
+}
+
+.topBorder {
+
+  width: 50px;
+  border-top: 10px dotted #209CEE;
+  margin: 0 auto;
+
+}

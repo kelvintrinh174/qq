@@ -1,0 +1,65 @@
+.loginForm {
+
+  margin: 120px auto;
+  border: 2px solid  #232b2bb4;
+  width: 300px;
+  padding: 20px;
+  position: relative;
+  border-radius: 8px;
+
+}
+
+.logo {
+
+  margin-top: -60px;
+  margin-bottom: -60px;
+
+}
+
+.loginHeader {
+
+  margin: 10px 0;
+  color: #232b2bd8;
+
+}
+
+#inputUsername,
+#inputPassword {
+
+  margin: 10px;
+  border: 1px solid #232b2bb4;
+  border-radius: 4px;
+  padding-left: 5px;
+  height: 20px;
+
+}
+
+.loginButton,
+.registerNavButton {
+
+  width: 200px;
+  height: 24px;
+  margin-top: 10px;
+  color: #ffff;
+  background-color: #209CEE;
+  border: 2px solid #209CEE;
+  border-radius: 3px;
+  transition: all .4s ease;
+  -webkit-transition: all .4s ease;
+  cursor: pointer;
+
+}
+
+.loginButton:hover,
+.registerNavButton:hover {
+
+  background-color: #1772af;
+  border: 2px solid #1772af;
+
+}
+
+.registerNavButton {
+
+  margin-bottom: 30px;
+
+}
